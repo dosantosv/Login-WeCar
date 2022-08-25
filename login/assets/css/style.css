@@ -1,0 +1,10 @@
+i {
+    font-style: normal;
+    color: #000;
+    font-size: 25px;
+    padding: 20px;
+}
+
+.pt-1 .btn {
+    margin-bottom: 40px;
+}
